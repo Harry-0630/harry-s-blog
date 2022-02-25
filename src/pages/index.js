@@ -15,7 +15,7 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <img style={{ margin: 0 }} src="https://github.com/Harry-0630/harry-s-blog/blob/d0b08edd464ae867321552d11a53b9f43878f070/boy01.png" alt="boy" />
+        <img style={{ margin: 0 }} src="https://github.com/Harry-0630/harry-s-blog/blob/47824d1015074e12f9aabf1060ec8ba857fdd37a/boy03.png" alt="boy" />
         <h1>
           Hey people{" "}
           <span role="img" aria-label="wave emoji">
